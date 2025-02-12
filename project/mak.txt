@@ -1,0 +1,4 @@
+make the pictures in the gallery section that it will be a carousel when you click on the one showing, the carousel will pop in and have sliders and will have up to 4 or 5 slides.. 
+
+
+how to turn my laravel project into react native and run it as a mobile app on expo CLI
